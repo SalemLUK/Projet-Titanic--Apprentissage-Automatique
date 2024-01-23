@@ -44,24 +44,14 @@ certaines relations familiales peuvent ne pas être représentées.
 | ---------        | ---------            | ---------                       |
 | survival         | Survie               | 0 = Non, 1 = Oui               |
 | pclass           | Classe du billet       | 1 = 1ère, 2 = 2ème, 3 =3ème  |
+| sex   | Sexe   | female = Femme, male =Homme   |
+| Age   | Âge en années   | Pas de clé   |
+| sibsp   | Nombre de frères/sœurs/époux à bord du Titanic  | Pas de clé   |
+| parch   | Nombre de parents/enfants à bord du Titanic   | Pas de clé   |
+| ticket   | Numéro du billet   | Pas de clé   |
+| fare   | Tarif du passager   |  Pas de clé  |
+| cabin   | Numéro de la cabine   |  Pas de clé  |
+| embarked   | Port d’embarquement   | C = Cherbourg, Q= Queenstown, S =Southampton    |
 
 
-  
-
-  
-sex Sexe female = Femme, male =
-Homme
-Age Âge en années Pas de clé
-sibsp Nombre de
-frères/sœurs/époux à
-bord du Titanic
-Pas de clé
-parch Nombre de parents/enfants
-à bord du Titanic
-Pas de clé
-ticket Numéro du billet Pas de clé
-fare Tarif du passager Pas de clé
-cabin Numéro de la cabine Pas de clé
-embarked Port d’embarquement C = Cherbourg, Q
-= Queenstown, S =
-Southampton
+ 
