@@ -53,5 +53,17 @@ certaines relations familiales peuvent ne pas être représentées.
 | cabin   | Numéro de la cabine   |  Pas de clé  |
 | embarked   | Port d’embarquement   | C = Cherbourg, Q= Queenstown, S =Southampton    |
 
+# Analyse Exploratoire des Données (AED)
+L’Analyse Exploratoire des Données constitue une phase cruciale de tout projet en science
+des données ou en apprentissage automatique. Elle nous offre l’opportunité d’appréhender
+la nature intrinsèque des données que nous manipulons.
+# Analyse Préliminaire et Nettoyage des Données
+Avant de nous immerger dans l’analyse des données, il est impératif de saisir les informations fondamentales relatives à notre jeu de données. Cela englobe la compréhension du
+nombre de caractéristiques, du type de ces caractéristiques (numériques, catégoriques), ainsi
+que de la présence éventuelle de valeurs manquantes.
+Comme l’illustre la figure ci-dessous, notre jeu de données englobe 891 passagers. Néanmoins, certaines variables, telles que l’âge et le port d’embarquement, renferment des valeurs
+manquantes que nous devrons traiter. De surcroît, les variables “Name”, “Ticket” et “Cabin”
+seront éliminées de nos jeux de données, car elles ne contribuent pas significativement à notre
+analyse.
 
  
