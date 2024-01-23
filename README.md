@@ -61,4 +61,8 @@ manquantes que nous devrons traiter. De surcroît, les variables “Name”, “
 seront éliminées de nos jeux de données, car elles ne contribuent pas significativement à notre
 analyse.
 
- 
+# Conclusion
+Ce projet, axé sur la classification binaire du naufrage tragique du Titanic, a permis une exploration approfondie des techniques d’apprentissage automatique appliquées à des données historiques. Nous avons franchi plusieurs étapes cruciales, notamment une préparation minutieuse des données, une exploration de divers modèles et une évaluation rigoureuse de leur performance.<br>
+
+En somme, ce projet a mis en lumière le potentiel des techniques d’apprentissage automatique dans le domaine de la classification binaire. En continuant à affiner et à développer ces approches, il est possible d’obtenir des modèles encore plus performants, ouvrant ainsi la voie à des applications futures et à une meilleure compréhension des mécanismes sous-jacents aux événements historiques tels que le naufrage du Titanic. Cela souligne l’importance et la pertinence de l’apprentissage automatique dans l’analyse et la compréhension des événements historiques.
+
