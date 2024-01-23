@@ -1,10 +1,9 @@
 # Projet-Titanic: Apprentissage automatique à partir d’une catastrophe
 Ecrit par: Salem LUKAU MAKIESE
-Département MIASHS, UFR 6 Informatique, Mathématique et
-Statistique Université Paul Valéry, Montpellier 3
+Département MIASHS, UFR 6 Informatique, Mathématique et Statistique Université Paul Valéry, Montpellier 3
 
 # Introduction
-# Contexte du Projet
+## Contexte du Projet
 Au cours de notre premier semestre de Master MIASHS, nous avons entrepris un projet
 qui englobe l’ensemble des compétences acquises. Ce document synthétise le travail réalisé
 durant ce semestre, en mettant l’accent sur l’élaboration d’un algorithme de prédiction.
@@ -33,7 +32,7 @@ Enfin, nous avons inclus “gendersubmission.csv”, un ensemble de prédictions
 que toutes les femmes ont survécu. Cela nous a permis d’avoir un exemple de ce à quoi un
 fichier de soumission devrait ressembler, de comprendre la structure de la soumission et de
 comparer notre modèle à une hypothèse de base.
-# Dictionnaires de données
+## Dictionnaires de données
 Les variables sont des indicateurs clés dans notre ensemble de données. Elles nous donnent des informations précieuses sur le statut socio-économique (pclass), l’âge (age), les
 relations familiales (sibsp et parch) des individus. Chaque variable a une signification spécifique et une valeur qui contribue à notre compréhension globale des données. Il est important
 de noter que certaines variables peuvent avoir des valeurs fractionnées ou estimées, et que
@@ -56,7 +55,7 @@ certaines relations familiales peuvent ne pas être représentées.
 L’Analyse Exploratoire des Données constitue une phase cruciale de tout projet en science
 des données ou en apprentissage automatique. Elle nous offre l’opportunité d’appréhender
 la nature intrinsèque des données que nous manipulons.
-# Analyse Préliminaire et Nettoyage des Données
+## Analyse Préliminaire et Nettoyage des Données
 Avant de nous immerger dans l’analyse des données, il est impératif de saisir les informations fondamentales relatives à notre jeu de données. Cela englobe la compréhension du
 nombre de caractéristiques, du type de ces caractéristiques (numériques, catégoriques), ainsi
 que de la présence éventuelle de valeurs manquantes.
