@@ -1,7 +1,6 @@
-# Projet-Titanic--Apprentissage-Automatique à partir d’une catastrophe
-
+# Projet-Titanic: Apprentissage automatique à partir d’une catastrophe
 # Introduction
-1.1 Contexte du Projet
+# Contexte du Projet
 Au cours de notre premier semestre de Master MIASHS, nous avons entrepris un projet
 qui englobe l’ensemble des compétences acquises. Ce document synthétise le travail réalisé
 durant ce semestre, en mettant l’accent sur l’élaboration d’un algorithme de prédiction.
