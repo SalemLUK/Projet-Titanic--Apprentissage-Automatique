@@ -16,7 +16,7 @@ Dans ce cadre, nous avons cherché à développer un modèle prédictif pour ré
 question : “Quels types de personnes étaient les plus susceptibles de survivre ?” Pour cela,
 nous avons utilisé les données des passagers (nom, âge, sexe, etc.). Nous avons disposé de
 deux ensembles de données similaires. Le premier, “train.csv”, comprenait les détails d’un
-sous-ensemble de passagers à bord (891 pour être précis, voir figure 21) et indiquait s’ils
+sous-ensemble de passagers à bord (891 pour être précis) et indiquait s’ils
 avaient survécu ou non. Le second, “test.csv” (voir figure 22), contenait des informations
 similaires mais sans révéler le sort des passagers. Il était de notre responsabilité de prédire
 ces résultats.<br>
@@ -60,6 +60,18 @@ Comme l’illustre la figure ci-dessous, notre jeu de données englobe 891 passa
 manquantes que nous devrons traiter. De surcroît, les variables “Name”, “Ticket” et “Cabin”
 seront éliminées de nos jeux de données, car elles ne contribuent pas significativement à notre
 analyse.
+## Encodage et Gestion des Valeurs Manquantes
+Nous sommes confrontés à des variables catégorielles, telles que “Sex” et “Embarked”,
+qui nécessitent une conversion en valeurs numériques pour être exploitées. Par exemple, les
+valeurs distinctes de “Sex”, à savoir “male” et “female”, ont été codées en 0 et 1 respectivement. Un processus analogue a été appliqué à la colonne “Embarked”
+
+## Visualisations de Données
+Nous avons effectué quelques visualisations
+
+# Examen de Divers Modèles
+Nous avons procédé à l’exploration de quatre modèles distincts. L’objectif principal de
+cette démarche est de mettre en parallèle leurs performances respectives pour identifier le
+modèle qui se révèle être le plus efficace.
 
 # Conclusion
 Ce projet, axé sur la classification binaire du naufrage tragique du Titanic, a permis une exploration approfondie des techniques d’apprentissage automatique appliquées à des données historiques. Nous avons franchi plusieurs étapes cruciales, notamment une préparation minutieuse des données, une exploration de divers modèles et une évaluation rigoureuse de leur performance.<br>
