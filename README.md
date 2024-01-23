@@ -33,7 +33,8 @@ Enfin, nous avons inclus “gendersubmission.csv”, un ensemble de prédictions
 que toutes les femmes ont survécu. Cela nous a permis d’avoir un exemple de ce à quoi un
 fichier de soumission devrait ressembler, de comprendre la structure de la soumission et de
 comparer notre modèle à une hypothèse de base.
-
+'''df_train=pd.read_csv("/kaggle/input/titanic/train.csv")
+df_train.head()'''
 # Dictionnaires de données
 Les variables sont des indicateurs clés dans notre ensemble de données. Elles nous donnent des informations précieuses sur le statut socio-économique (pclass), l’âge (age), les
 relations familiales (sibsp et parch) des individus. Chaque variable a une signification spécifique et une valeur qui contribue à notre compréhension globale des données. Il est important
