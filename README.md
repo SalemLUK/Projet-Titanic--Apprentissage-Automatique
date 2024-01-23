@@ -2,6 +2,9 @@
 Ecrit par: Salem LUKAU MAKIESE
 Département MIASHS, UFR 6 Informatique, Mathématique et
 Statistique Université Paul Valéry, Montpellier 3
+![Logo du Projet](upv.png)
+![Logo du Projet](master.png)
+
 
 # Introduction
 # Contexte du Projet
