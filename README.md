@@ -2,8 +2,9 @@
 Ecrit par: Salem LUKAU MAKIESE
 Département MIASHS, UFR 6 Informatique, Mathématique et
 Statistique Université Paul Valéry, Montpellier 3
-![Logo du Projet](upv.png)
-<img src="master.png" alt="Texte alternatif" width="50" height="50">
+
+<img src="upv.png" alt="Texte alternatif" width="100" height="100">
+<img src="master.png" alt="Texte alternatif" width="100" height="100">
 
 
 
