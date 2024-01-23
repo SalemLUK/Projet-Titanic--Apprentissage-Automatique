@@ -1,9 +1,6 @@
 # Projet-Titanic: Apprentissage automatique à partir d’une catastrophe
 Ecrit par: Salem LUKAU MAKIESE<br>
 Département MIASHS, UFR 6 Informatique, Mathématique etStatistique Université Paul Valéry, Montpellier 3<br>
-![Logo du Projet](upv.png)
-
-
 
 # Introduction
 ## Contexte du Projet
