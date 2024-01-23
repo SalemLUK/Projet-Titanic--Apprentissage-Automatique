@@ -1,4 +1,8 @@
 # Projet-Titanic: Apprentissage automatique à partir d’une catastrophe
+Ecrit par: Salem LUKAU MAKIESE
+Département MIASHS, UFR 6 Informatique, Mathématique et
+Statistique Université Paul Valéry, Montpellier 3
+
 # Introduction
 # Contexte du Projet
 Au cours de notre premier semestre de Master MIASHS, nous avons entrepris un projet
@@ -29,3 +33,35 @@ Enfin, nous avons inclus “gendersubmission.csv”, un ensemble de prédictions
 que toutes les femmes ont survécu. Cela nous a permis d’avoir un exemple de ce à quoi un
 fichier de soumission devrait ressembler, de comprendre la structure de la soumission et de
 comparer notre modèle à une hypothèse de base.
+
+# Dictionnaires de données
+Les variables sont des indicateurs clés dans notre ensemble de données. Elles nous donnent des informations précieuses sur le statut socio-économique (pclass), l’âge (age), les
+relations familiales (sibsp et parch) des individus. Chaque variable a une signification spécifique et une valeur qui contribue à notre compréhension globale des données. Il est important
+de noter que certaines variables peuvent avoir des valeurs fractionnées ou estimées, et que
+certaines relations familiales peuvent ne pas être représentées.
+
+| Variable         | Définition          |   Clé                           |
+| ---------        | ---------            | ---------                       |
+| survival         | Survie               | 0 = Non, 1 = Oui               |
+| pclass           | Classe du billet       | 1 = 1ère, 2 = 2ème, 3 =3ème  |
+
+
+  
+
+  
+sex Sexe female = Femme, male =
+Homme
+Age Âge en années Pas de clé
+sibsp Nombre de
+frères/sœurs/époux à
+bord du Titanic
+Pas de clé
+parch Nombre de parents/enfants
+à bord du Titanic
+Pas de clé
+ticket Numéro du billet Pas de clé
+fare Tarif du passager Pas de clé
+cabin Numéro de la cabine Pas de clé
+embarked Port d’embarquement C = Cherbourg, Q
+= Queenstown, S =
+Southampton
